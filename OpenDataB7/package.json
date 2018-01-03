@@ -1,0 +1,9 @@
+{
+  "name": "open-data-b7",
+  "version": "0.0.0",
+  "description": "OpenDataB7",
+  "main": "server.js",
+  "author": {
+    "name": "Dan"
+  }
+}
